@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+title: "EcoWifi - ESP8266 WiFi Manager"
+version: 1.0.0
+date-released: 2026-05-13
+url: "https://github.com/yourusername/EcoWifi"

@@ -1,0 +1,7 @@
+EcoWifi	KEYWORD1
+setAPCredentials	KEYWORD2
+addDefaultWifi	KEYWORD2
+init	KEYWORD2
+handle	KEYWORD2
+maintain	KEYWORD2
+connect	KEYWORD2
