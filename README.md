@@ -1,10 +1,57 @@
-# EcoWifi Library
+# EcoWifi Library / Thư viện kết nối và cài đặt wifi cho các ứng dụng IOT trên ESP32 hoặc ESP8266
 
-A robust, memory-safe, and standalone WiFi Manager library with a captive portal for **ESP8266** and **ESP32** devices. 
+Đây là một thư viện cho phép bạn sử dụng wifi dễ dàng hơn trên **ESP32** hoặc **ESP8266**, hỗ trợ tốt cho các dự án IOT.
+<br>
+Thư viện có các tính năng như: Sử dụng 1 nút bấm để vào chế độ cài đặt **tên** và **mật khẩu** wifi dễ dàng, tự kết nối lại wifi khi mất mạng.
 
-*(**Tiếng Việt ở bên dưới / Vietnamese below**)*
+This is a library that allows you to use Wi-Fi more easily on **ESP32** or **ESP8266**, providing good support for IoT projects.
+<br>
+The library includes features such as: One-button access to easily set the Wi-Fi **name** and **password**, and automatic reconnection to Wi-Fi after a network outage.
+
+## 📱 Mobile WiFi Setup Guide / Hướng dẫn cài đặt WiFi trên điện thoại
+
+**Bước 1:** *Mở cài đặt wifi trong điện thoại lên và tìm để tên wifi phát ra từ ESP mà bạn đã cài trước đó, bấm vào wifi đó và nhập mật khẩu bạn đẫ đặt trong code. Nếu sau khi kết nối wifi mà web cài đặt không tự động mở lên thì bạn bấm wifi đó 1 lần nữa thì trang web sẽ được mở lên*
+<br>
+<br>
+**Step 1:** Open your phone's Wi-Fi settings and find the Wi-Fi network name broadcast from the ESP you previously configured. Tap on that Wi-Fi network and enter the password you set in the code. If the settings website doesn't open automatically after connecting, tap on that Wi-Fi network again and the website should open.
+<br>
+<br>
+<img src="img/a1.png" alt="Step 1" width="300"/>
+
+**Bước 2:** *Sau khi đã vào web cài đặt wifi thì bấm nút "Scan wifi"*
+<br>
+<br>
+**Step 2:** *After accessing the Wi-Fi settings website, click the "Scan Wi-Fi" button.*
+<br>
+<br>
+<img src="img/a2.jpg" alt="Step 2" width="300"/>
+
+**Bước 3:** *ESP sẽ dò các wifi có thể kết nối được, lúc này bạn cần bấm vào wifi mà mạng muốn kết nối*
+<br>
+<br>
+**Step 3:** *ESP will scan for available Wi-Fi networks; at this point, you need to tap on the Wi-Fi network you want to connect to.*
+<br>
+<br>
+<img src="img/a3.jpg" alt="Step 3" width="300"/>
+
+**Bước 4:** *Nhập mật khẩu wifi của bạn vào, bấm nút "Save" để lưu wifi*
+<br>
+<br>
+**Step 4:** *Enter your Wi-Fi password, then click the "Save" button to save the Wi-Fi.*
+<br>
+<br>
+<img src="img/a4.jpg" alt="Step 4" width="300"/>
+
+**Bước 5:** *Sau khi lưu wifi bạn hãy chờ đợi một chút, nếu wifi kết nối thành công thì đèn báo sẽ không nhấp nháy nữa*
+<br>
+<br>
+Step 5: After saving the Wi-Fi information, please wait a moment. If the Wi-Fi connection is successful, the indicator light will stop blinking.
+<br>
+<br>
+<img src="img/a5.jpg" alt="Step 5" width="300"/>
 
 ---
+## Read the instructions below/ Đọc tiếp phần hướng dẫn bên dưới (Có đoạn tiếng việt ở cuối)
 
 ## 🇺🇸 English Documentation
 
@@ -66,24 +113,3 @@ Vui lòng mở file ví dụ có sẵn bằng cách vào Arduino IDE: **File** -
 
 ---
 
-## 📱 Mobile WiFi Setup Guide / Hướng dẫn cài đặt WiFi trên điện thoại
-
-**Step 1 / Bước 1:** *(Viết nội dung giải thích cho ảnh 1 vào đây...)*
-<br>
-<img src="img/a1.jpg" alt="Step 1" width="300"/>
-
-**Step 2 / Bước 2:** *(Viết nội dung giải thích cho ảnh 2 vào đây...)*
-<br>
-<img src="img/a2.jpg" alt="Step 2" width="300"/>
-
-**Step 3 / Bước 3:** *(Viết nội dung giải thích cho ảnh 3 vào đây...)*
-<br>
-<img src="img/a3.jpg" alt="Step 3" width="300"/>
-
-**Step 4 / Bước 4:** *(Viết nội dung giải thích cho ảnh 4 vào đây...)*
-<br>
-<img src="img/a4.jpg" alt="Step 4" width="300"/>
-
-**Step 5 / Bước 5:** *(Viết nội dung giải thích cho ảnh 5 vào đây...)*
-<br>
-<img src="img/a5.jpg" alt="Step 5" width="300"/>
