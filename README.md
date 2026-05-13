@@ -1,5 +1,7 @@
 # EcoWifi Library / Thư viện kết nối và cài đặt wifi cho các ứng dụng IOT trên ESP32 hoặc ESP8266
 
+[![Arduino Library](https://www.ardu-badge.com/badge/EcoWifi.svg)](https://www.ardu-badge.com/EcoWifi)
+
 Đây là một thư viện cho phép bạn sử dụng wifi dễ dàng hơn trên **ESP32** hoặc **ESP8266**, hỗ trợ tốt cho các dự án IOT.
 <br>
 Thư viện có các tính năng như: Sử dụng 1 nút bấm để vào chế độ cài đặt **tên** và **mật khẩu** wifi dễ dàng, tự kết nối lại wifi khi mất mạng.
