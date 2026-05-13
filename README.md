@@ -63,3 +63,27 @@ Please check the `examples/BasicSetup` folder in Arduino IDE: **File** -> **Exam
 
 ### Code mẫu
 Vui lòng mở file ví dụ có sẵn bằng cách vào Arduino IDE: **File** -> **Examples** -> **EcoWifi** -> **BasicSetup**.
+
+---
+
+## 📱 Mobile WiFi Setup Guide / Hướng dẫn cài đặt WiFi trên điện thoại
+
+**Step 1 / Bước 1:** *(Viết nội dung giải thích cho ảnh 1 vào đây...)*
+<br>
+<img src="img/a1.jpg" alt="Step 1" width="300"/>
+
+**Step 2 / Bước 2:** *(Viết nội dung giải thích cho ảnh 2 vào đây...)*
+<br>
+<img src="img/a2.jpg" alt="Step 2" width="300"/>
+
+**Step 3 / Bước 3:** *(Viết nội dung giải thích cho ảnh 3 vào đây...)*
+<br>
+<img src="img/a3.jpg" alt="Step 3" width="300"/>
+
+**Step 4 / Bước 4:** *(Viết nội dung giải thích cho ảnh 4 vào đây...)*
+<br>
+<img src="img/a4.jpg" alt="Step 4" width="300"/>
+
+**Step 5 / Bước 5:** *(Viết nội dung giải thích cho ảnh 5 vào đây...)*
+<br>
+<img src="img/a5.jpg" alt="Step 5" width="300"/>
